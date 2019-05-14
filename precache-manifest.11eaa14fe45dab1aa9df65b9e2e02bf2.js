@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/calepinage/static/css/main.0dac307d.chunk.css"
   },
   {
-    "revision": "3778a5a08031c70f65cfca097c1aa9a3",
+    "revision": "25f74d7f46cc045f28770f431bd3ae5d",
     "url": "/calepinage/index.html"
   }
 ];
