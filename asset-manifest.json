@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.0dac307d.chunk.css",
-  "main.js": "/static/js/main.257a45f1.chunk.js",
-  "main.js.map": "/static/js/main.257a45f1.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.5e67eb5b.chunk.js": "/static/js/2.5e67eb5b.chunk.js",
-  "static/js/2.5e67eb5b.chunk.js.map": "/static/js/2.5e67eb5b.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.65b0f34c8c0e9f2e8c7a55cc25c7323f.js": "/precache-manifest.65b0f34c8c0e9f2e8c7a55cc25c7323f.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.0dac307d.chunk.css.map": "/static/css/main.0dac307d.chunk.css.map"
+  "main.css": "/calepinage/static/css/main.0dac307d.chunk.css",
+  "main.js": "/calepinage/static/js/main.5157e2db.chunk.js",
+  "main.js.map": "/calepinage/static/js/main.5157e2db.chunk.js.map",
+  "runtime~main.js": "/calepinage/static/js/runtime~main.803f2a29.js",
+  "runtime~main.js.map": "/calepinage/static/js/runtime~main.803f2a29.js.map",
+  "static/js/2.d9658763.chunk.js": "/calepinage/static/js/2.d9658763.chunk.js",
+  "static/js/2.d9658763.chunk.js.map": "/calepinage/static/js/2.d9658763.chunk.js.map",
+  "index.html": "/calepinage/index.html",
+  "precache-manifest.67d5225e981f9f7a067106ae98d22c6e.js": "/calepinage/precache-manifest.67d5225e981f9f7a067106ae98d22c6e.js",
+  "service-worker.js": "/calepinage/service-worker.js",
+  "static/css/main.0dac307d.chunk.css.map": "/calepinage/static/css/main.0dac307d.chunk.css.map"
 }
